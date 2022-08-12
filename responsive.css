@@ -1,0 +1,176 @@
+@media all and (max-width: 768px) {
+
+       .container {
+              width: 93%;
+       }
+
+       .header-top {
+              margin-top: 30px;
+       }
+
+       .logo {
+              width: 100%;
+              float: none;
+              text-align: center;
+              margin-bottom: 30px;
+       }
+
+       .main-menu ul {
+              float: none;
+              text-align: center;
+       }
+
+       .main-menu ul li {
+              float: none;
+              display: inline;
+       }
+
+       .main-menu ul li a {
+              display: inline-block;
+       }
+
+       .col-4 {
+              width: 50%;
+              margin: 0 0;
+       }
+
+       .team-item {
+              margin: 60px 0 0;
+       }
+
+       .team-item:nth-child(1) {
+              margin: 0;
+       }
+
+       .team-item:nth-child(2) {
+              margin: 0;
+       }
+
+       .team-footer .team-item {
+              width: 50%;
+              margin-right: 0;
+       }
+
+       .skills-item {
+              margin-top: 60px;
+       }
+
+       .skills-item:nth-child(1) {
+              margin-top: 0;
+       }
+
+       .skills-item:nth-child(2) {
+              margin-top: 0;
+       }
+
+       .skills-footer .skills-item {
+              width: 50%;
+              margin-right: 0%;
+       }
+
+       .testimonials .clients {
+              margin-bottom: 90px;
+          }
+
+       .col-2:nth-child(2n) {
+              margin: auto;
+              margin-bottom: 90px;
+       }
+
+       .contact-area .container {
+              width: 80%;
+       }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 600px) {
+       
+       .main-menu {
+              width: 65%;
+              margin: auto;
+       }
+
+       .main-menu ul li a {
+              display: block;
+       }
+
+       .col-4 {
+              width: 95%;
+       }
+
+       .services-item img {
+              height: auto;
+              width: auto;
+              max-width: 40%;
+       }
+
+       .team-item {
+              margin: 60px 0 0;
+       }
+
+       .team-footer .team-item {
+              width: 95%;
+       }
+
+       .skills-item {
+              margin-top: 60px;
+       }
+
+       .skills-footer .skills-item {
+              width: 95%;
+       }
+
+       
+
+       .portfolio-menu {
+              width: 65%;
+              margin: auto;
+              margin-top: 50px;
+       }
+
+       .portfolio-menu ul li a {
+              display: block;
+       }
+
+       .col-2 {
+              width: 90%;
+              margin-right: 0;
+              float: none;
+              margin: auto;
+       }
+
+       .portfolio-item {
+              margin-top: 50px;
+       }
+       
+       .contact-form input[type="text"],
+       .contact-form input[type="email"] {
+              width: 100%;
+              margin-top: 30px;
+       }
+
+       .contact-form {
+              margin-top: 20px;
+       }
+
+       .contact-form textarea {
+              min-height: 150px;
+       }
+
+       .button {
+              padding: 15px 50px;
+       }
+
+       .portfolio-area .button {
+              padding: 15px 50px;
+       }
+}
